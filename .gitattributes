@@ -2,7 +2,12 @@
 *.vtf binary
 
 # Другие бинарные файлы (если есть: модели, звуки)
+#*.phy binary
 #*.mdl binary
+#*.vvd binary
+#*.vtx binary
+#*.dx90.vtx binary
+
 #*.wav binary
 #*.mp3 binary
 *.vmt binary
